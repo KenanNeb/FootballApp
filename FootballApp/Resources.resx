@@ -121,12 +121,6 @@
   <data name="stadium" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\stadium.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="depositphotos_57111133-stock-illustration-pixel-art-style-illustration-shows" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\depositphotos_57111133-stock-illustration-pixel-art-style-illustration-shows.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sekil.pmg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\sekil.pmg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="FAttack" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\FAttack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>

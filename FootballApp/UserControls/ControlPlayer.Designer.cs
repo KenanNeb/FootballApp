@@ -35,7 +35,7 @@
             // 
             // imagebutton
             // 
-            this.imagebutton.CheckedState.Image = global::FootballApp.Resources.sekil_pmg;
+            this.imagebutton.CheckedState.Image = global::FootballApp.Resources.FPlayer;
             this.imagebutton.CheckedState.ImageSize = new System.Drawing.Size(64, 64);
             this.imagebutton.HoverState.ImageSize = new System.Drawing.Size(64, 64);
             this.imagebutton.Image = global::FootballApp.Resources.FPlayer;

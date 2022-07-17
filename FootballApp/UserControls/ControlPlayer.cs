@@ -52,6 +52,9 @@ namespace FootballApp.UserControls
             else { imagebutton.Image = Resources.FPlayer; isokay = false; }
         }
 
-       
+        private void Number_txt_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

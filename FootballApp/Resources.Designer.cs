@@ -63,16 +63,6 @@ namespace FootballApp {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap depositphotos_57111133_stock_illustration_pixel_art_style_illustration_shows {
-            get {
-                object obj = ResourceManager.GetObject("depositphotos_57111133-stock-illustration-pixel-art-style-illustration-shows", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap FAttack {
             get {
                 object obj = ResourceManager.GetObject("FAttack", resourceCulture);
@@ -86,16 +76,6 @@ namespace FootballApp {
         internal static System.Drawing.Bitmap FPlayer {
             get {
                 object obj = ResourceManager.GetObject("FPlayer", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap sekil_pmg {
-            get {
-                object obj = ResourceManager.GetObject("sekil.pmg", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
